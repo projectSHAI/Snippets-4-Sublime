@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+@extend ${1: .class #orID};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>SCSSextend</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<!-- Optional: Description to show in the menu -->
+	<description>Creates an scss extension</description>
+</snippet>

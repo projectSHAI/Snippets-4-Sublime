@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+@mixin ${2:mixin-name}(${3:var1}) {
+	${css-prop/var1}: ${value/var1};
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>SCSSmixin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<!-- Optional: Description to show in the menu -->
+	<description>Creates a scss mixin</description>
+</snippet>

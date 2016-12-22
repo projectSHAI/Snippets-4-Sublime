@@ -8,20 +8,27 @@ Snippets are categorized first by language, then by framework/library
 
 ##Typescript/Javascript Snippets
 
-| Shortcut         | Creates               | For                      |
-| ---------------- |-----------------------| -------------------------|
-| XconsoleLog      | console log           |  Typescript/Javascript   |
-| Ximport          | import statement      |  Typescript              |
-| Xclass           | Class                 |  Typescript              |
-| Xif              | if statement          |  Typescript/Javascript   |
-| XifElse          | if else statement     |  Typescript/Javascript   |
-| XifElseif        | if else if statement  |  Typescript/Javascript   |
-| Xfor             | for loop              |  Typescript/Javascript   |
-| Xwhile           | while loop            |  Typescript/Javascript   |
-| XdoWhile         | do while loop         |  Typescript/Javascript   |
+| Shortcut          | Creates               | For                      |
+| ----------------  |-----------------------| -------------------------|
+| JSconsoleLog      | console log           |  Typescript/Javascript   |
+| TSimport          | import statement      |  Typescript              |
+| TSclass           | Class                 |  Typescript              |
+| JSif              | if statement          |  Typescript/Javascript   |
+| JSifElse          | if else statement     |  Typescript/Javascript   |
+| JSifElseif        | if else if statement  |  Typescript/Javascript   |
+| JSfor             | for loop              |  Typescript/Javascript   |
+| JSwhile           | while loop            |  Typescript/Javascript   |
+| JSdoWhile         | do while loop         |  Typescript/Javascript   |
 
 ##HTML Snippets
 
 ##CSS/SCSS Snippets
+
+| Shortcut          | Creates               | For     |
+| ----------------  |-----------------------| --------|
+| SCSSextend        | @extend .class        |  SCSS   |
+| SCSSimport        | @import file          |  SCSS   |
+| SCSSmixin         | @mixin                |  SCSS   |
+| SCSSvar           | scss variable         |  SCSS   |
 
 ##C++ Snippets

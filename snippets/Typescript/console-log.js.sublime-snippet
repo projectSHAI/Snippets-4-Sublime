@@ -1,15 +1,11 @@
 <snippet>
 	<content><![CDATA[
-do {
-	${1:expressions to execute once and then as long as below holds true;}
-	${2:Increment condition;}
-}
-while ( ${3:condition} ) 
+console.log(${1:event});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>XdoWhile</tabTrigger>
+	<tabTrigger>JSconsoleLog</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 	<!-- Optional: Description to show in the menu -->
-	<description>Creates a for loop</description>
+	<description>Creates a console log</description>
 </snippet>
