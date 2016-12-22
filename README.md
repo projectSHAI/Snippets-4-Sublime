@@ -10,16 +10,18 @@ Snippets are categorized first by language, then by framework/library
 
 | Shortcut         | Creates               | For                      |
 | ---------------- |-----------------------| -------------------------|
-| Xcl              | console log           |  Typescript/Javascript   |
-| Ximp             | import statement      |  Typescript              |
+| XconsoleLog      | console log           |  Typescript/Javascript   |
+| Ximport          | import statement      |  Typescript              |
 | Xclass           | Class                 |  Typescript              |
 | Xif              | if statement          |  Typescript/Javascript   |
-| Xifelse          | if else statement     |  Typescript/Javascript   |
-| Xifelseif        | if else if statement  |  Typescript/Javascript   |
+| XifElse          | if else statement     |  Typescript/Javascript   |
+| XifElseif        | if else if statement  |  Typescript/Javascript   |
 | Xfor             | for loop              |  Typescript/Javascript   |
+| Xwhile           | while loop            |  Typescript/Javascript   |
+| XdoWhile         | do while loop         |  Typescript/Javascript   |
 
 ##HTML Snippets
 
 ##CSS/SCSS Snippets
 
-##Python Snippets
+##C++ Snippets

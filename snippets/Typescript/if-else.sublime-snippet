@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+if(${1:Condition}) {
+	${2:Execute if condition is true}
+} else {
+	${3:Execute if condition is false}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>XifElse</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<!-- Optional: Description to show in the menu -->
+	<description>Creates an if else statement</description>
+</snippet>
