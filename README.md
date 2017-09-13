@@ -4,9 +4,9 @@ This is a personal Repo with all of my custom Sublime snippets which facilitate 
 
 Snippets are categorized first by language, then by framework/library
 
-#Snippets
+# Snippets
 
-##Typescript/Javascript Snippets
+## Typescript/Javascript Snippets
 
 | Shortcut          | Creates               | For                      |
 | ----------------  |-----------------------| -------------------------|
@@ -20,9 +20,7 @@ Snippets are categorized first by language, then by framework/library
 | JSwhile           | while loop            |  Typescript/Javascript   |
 | JSdoWhile         | do while loop         |  Typescript/Javascript   |
 
-##HTML Snippets
-
-##CSS/SCSS Snippets
+## CSS/SCSS Snippets
 
 | Shortcut          | Creates               | For     |
 | ----------------  |-----------------------| --------|
@@ -30,5 +28,3 @@ Snippets are categorized first by language, then by framework/library
 | SCSSimport        | @import file          |  SCSS   |
 | SCSSmixin         | @mixin                |  SCSS   |
 | SCSSvar           | scss variable         |  SCSS   |
-
-##C++ Snippets
